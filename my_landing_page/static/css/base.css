@@ -1,0 +1,26 @@
+.nav-item a.active {
+    color: red;
+}
+
+.display-3 {
+    color: rgb(33, 72, 146);
+}
+
+#page-container {
+    position: relative;
+    min-height: 100vh;
+}
+
+#content-wrap {
+    padding-top: 5rem;
+    padding-bottom: 10rem;
+    padding-left: 5%;
+    padding-right: 5%;
+    /* Footer height */
+}
+
+.page-footer {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
